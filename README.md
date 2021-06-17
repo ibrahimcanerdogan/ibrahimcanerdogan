@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 📝 I regulary write articles on [https://medium.com/@icanerdogan](https://medium.com/@icanerdogan)
+- 📝 I regulary write articles on [https://ibrahimcanerdogan.com](https://ibrahimcanerdogan.com)
 
 - 💬 Ask me about **Machine Learning & Android**
 
