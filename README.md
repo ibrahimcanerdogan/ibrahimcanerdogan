@@ -1,16 +1,16 @@
 
 <h1 align="center">  &#x2728; Hi, I'm İbrahim Can Erdoğan  &#x2728;</h1>
-<h3 align="center">I'm passionate about Machine Learning & Android &#128147;</h3>
+<h3 align="center">I'm passionate about Android & Computer Vision &#128147;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=icanerdogan&label=Profile%20views&color=0e75b6&style=flat" alt="icanerdogan" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Algorithms & Android**
+- 🔭 I’m currently working on **Android Development with Kotlin**
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📝 I regulary write articles on [https://ibrahimcanerdogan.com](https://ibrahimcanerdogan.com)
 
-- 💬 Ask me about **Machine Learning & Android**
+- 💬 Ask me about **Android (Kotlin&Java)**
 
 - 📫 How to reach me **ibrahimcan.erdogann@gmail.com**
 
