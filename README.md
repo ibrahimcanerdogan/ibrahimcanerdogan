@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Android Development with Kotlin**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Blockchain Programming**
 
 - 📝 I regulary write articles on [https://ibrahimcanerdogan.com](https://ibrahimcanerdogan.com)
 
