@@ -16,7 +16,6 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/icanerdogann" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Twitter-1024.png" alt="icanerdogann" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/ibrahimcanerdogan" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png" alt="ibrahimcanerdogan" height="40" width="40" /></a>
 <a href="https://medium.com/@ibrahimcanerdogan" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-4/24/medium-m-1024.png" alt="@icanerdogan" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCevIikvuddEfPCBECo8UGLg?view_as=subscriber" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_youtube-1024.png" alt="https://www.youtube.com/channel/uceviikvuddefpcbeco8uglg?view_as=subscriber" height="40" width="40"/></a>
