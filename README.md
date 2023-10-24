@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Blockchain Programming**
 
-- 📝 I regulary write articles on [https://ibrahimcanerdogan.com.tr](https://ibrahimcanerdogan.com.tr)
+- 📝 I regulary write articles on [https://ibrahimcanerdogan.medium.com](https://ibrahimcanerdogan.medium.com/)
 
 - 💬 Ask me about **Android (Kotlin&Java)**
 
