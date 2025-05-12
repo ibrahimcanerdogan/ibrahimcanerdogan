@@ -34,14 +34,8 @@
   <a href="https://github.com/ibrahimcanerdogan" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/ibrahimcnerdgn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
   <a href="https://instagram.com/icanerdogan" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://dev.to/ibrahimcanerdogan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" alt="Dev.to" />
   </a>
 </p>
 
