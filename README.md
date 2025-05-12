@@ -51,5 +51,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimcanerdogan&show_icons=true&theme=radical" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcanerdogan&layout=compact&theme=radical" style="height: 200px;" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimcanerdogan&layout=compact&theme=radical" style="height: 200px;" />-->
 </p>
