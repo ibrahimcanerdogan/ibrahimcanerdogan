@@ -19,23 +19,29 @@
 ### 🌐 Connect with me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ibrahimcanerdogan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin: 0 10px;" />
   </a>
-  <a href="https://medium.com/@ibrahimcanerdogan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" alt="Medium" />
-  </a>
+
+  <!-- YouTube -->
   <a href="https://www.youtube.com/channel/UCevIikvuddEfPCBECo8UGLg" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" />
+    <img src="https://api.iconify.design/logos/youtube-icon.svg" alt="YouTube" width="40" height="40" style="margin: 0 10px;" />
   </a>
+
+  <!-- Google Play -->
   <a href="https://play.google.com/store/apps/dev?id=4675513072052384522" target="_blank">
-    <img src="https://skillicons.dev/icons?i=googleplay" alt="Google Play" />
+    <img src="https://api.iconify.design/logos/google-play-icon.svg" alt="Google Play" width="40" height="40" style="margin: 0 10px;" />
   </a>
+
+  <!-- GitHub -->
   <a href="https://github.com/ibrahimcanerdogan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" style="margin: 0 10px;" />
   </a>
+
+  <!-- Instagram -->
   <a href="https://instagram.com/icanerdogan" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40" style="margin: 0 10px;" />
   </a>
 </p>
 
